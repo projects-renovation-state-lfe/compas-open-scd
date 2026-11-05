@@ -1,4 +1,4 @@
-FROM public.ecr.aws/nginx/nginx-unprivileged:1.31.7
+FROM public.ecr.aws/nginx/nginx-unprivileged:1.31.8
 
 USER root
 
